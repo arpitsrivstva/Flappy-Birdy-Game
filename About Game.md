@@ -1,5 +1,5 @@
 # Flappy-Birdy-Game
-Game name : Flappy Birdy
+Game : Flappy Birdy
 
 How-to-Play in 3 steps ~
 1. Don't touch the ground! "Blocks" are the obstacles. 
