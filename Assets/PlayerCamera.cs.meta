@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9364b77943cf994da320ce6df1365c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTransform: {instanceID: 0}
+  - darkness: {instanceID: 0}
+  - playerAlive: {instanceID: 0}
+  - darknessImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
