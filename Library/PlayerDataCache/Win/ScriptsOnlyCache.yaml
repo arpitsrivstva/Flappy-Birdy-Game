@@ -640,4 +640,5 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Arpit Srivastava/Flappy Birdy/Flappy Birdy.exe
+  playerPath: C:/Users/Arpit Srivastava/Documents/GitHub/Flappy-Birdy-Game/Flappy
+    Bird.exe
