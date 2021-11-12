@@ -87,5 +87,6 @@ public class GameOverPanel : MonoBehaviour
     public void ReloadScene()
     {
        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+       Debug.Log("The active scene '" + SceneManager.GetActiveScene().name + "' is activated!");
     }
 }
